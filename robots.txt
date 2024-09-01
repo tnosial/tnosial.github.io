@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tnosial.github.io/sitemap.html.gz
+Sitemap: https://tnosial.github.io/app/sitemap.html.gz
+Sitemap: https://tnosial.github.io/assets/sitemap.html.gz
+Sitemap: https://tnosial.github.io/css/sitemap.html.gz
+Sitemap: https://tnosial.github.io/includes/sitemap.html.gz
+Sitemap: https://tnosial.github.io/item/sitemap.html.gz
+Sitemap: https://tnosial.github.io/src/sitemap.html.gz
